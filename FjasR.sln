@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FjasR.Wpf", "FjasR.Wpf\FjasR.Wpf.csproj", "{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FjasR.Messaging.Endpoint", "FjasR.Messaging.Endpoint\FjasR.Messaging.Endpoint.csproj", "{5CCE7B27-521A-4807-A239-983EB3AC7322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FjasR.PushNotifactions", "FjasR.PushNotifactions\FjasR.PushNotifactions.csproj", "{D590D7EE-E03C-44D4-8C01-19EECCDE3D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCE7B27-521A-4807-A239-983EB3AC7322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCE7B27-521A-4807-A239-983EB3AC7322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCE7B27-521A-4807-A239-983EB3AC7322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCE7B27-521A-4807-A239-983EB3AC7322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D590D7EE-E03C-44D4-8C01-19EECCDE3D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D590D7EE-E03C-44D4-8C01-19EECCDE3D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D590D7EE-E03C-44D4-8C01-19EECCDE3D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D590D7EE-E03C-44D4-8C01-19EECCDE3D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
