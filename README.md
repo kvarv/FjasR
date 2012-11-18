@@ -1,0 +1,1 @@
+Self hosting SignalR in NServiceBus, pushing to a WPF client.
