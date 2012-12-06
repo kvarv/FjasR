@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FjasR.Wpf", "FjasR.Wpf\FjasR.Wpf.csproj", "{E660F050-C5FD-44DC-8FD4-B9F0D07E28E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FjasR.Messaging.Endpoint", "FjasR.Messaging.Endpoint\FjasR.Messaging.Endpoint.csproj", "{5CCE7B27-521A-4807-A239-983EB3AC7322}"
